@@ -1,8 +1,13 @@
-package programa;
+package entidades;
 
 public class Aluno {
 
 	private String nome, email;
+	
+	
+
+	public Aluno() {
+	}
 
 	public Aluno(String nome, String email) {
 
